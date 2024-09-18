@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhayxar28
+- 👋 Hi, I’m Abhay Rawat
 - 👀 I’m interested in web2 & web3
 - 🌱 I’m currently learning web2
 - 😄 Pronouns: he/him
